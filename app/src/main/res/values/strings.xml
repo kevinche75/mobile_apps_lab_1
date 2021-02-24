@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Mobile_Lab_1</string>
+    <string name="title_activity_main2">Книги</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="logon">войти или зарегистрироваться</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="send_code">Мы отправим на номер SMS-сообщение с кодом подтверждения</string>
+    <string name="number_hint">__________</string>
+    <string name="other_number_hint">          </string>
+    <string name="get_code">получить код</string>
+    <string name="conditions">При входе вы соглашаетесь  <a href="https://github.com/">с условиями</a></string>
+    <string name="book_0">Архипелаг ГУЛАГ</string>
+    <string name="book_1">Хрупкое равновесие</string>
+    <string name="book_2">Водолазкин</string>
+    <string name="worker_title">Профиль</string>
+    <string name="name">Беляков Дмитрий</string>
+    <string name="e_mail">Телефон и e-mail</string>
+    <string name="mails">Почтовые адреса</string>
+    <string name="worker_data">Данные о работодателе</string>
+    <string name="region_payment">Регион для платежей</string>
+    <string name="your_name">Ваше имя</string>
+    <string name="name_surname">Имя Фамилия</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="your_email">Ваш e-mail адрес</string>
+    <string name="theme">Тема обращения</string>
+    <string name="Comment">Комментарий</string>
+    <string name="condition">
+        Я даю согласие на обработку своих персональных данных. С
+        <a href="https://github.com/">политикой обеспечения безопасности</a> персональных данных САО "PECO-Гарантия" ознакомлен.
+    </string>
+    <string-array name="themes">
+        <item>Тема сообщения</item>
+        <item>Платежи</item>
+        <item>Кредит</item>
+        <item>Обслуживание</item>
+    </string-array>
+</resources>
